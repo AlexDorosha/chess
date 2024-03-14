@@ -247,7 +247,7 @@ ul {
     color: var(--black);
   }
   .btn--trans {
-    padding: 14px 45px;
+    padding: 14px 50px;
     background: transparent;
     border: 2px solid var(--black);
     align-items: center;
