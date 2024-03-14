@@ -184,7 +184,7 @@ ul {
   .hero {
     min-height: 698px;
     padding-top: 23px;
-    background-image: url(/img/hero.png);
+    background-image: url(/chess/img/hero.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -404,7 +404,7 @@ ul {
   align-items: center;
   position: relative;
   padding: 21px 20px 18px 72px;
-  background-image: url(/img/stages-bgr.png);
+  background-image: url(/chess/img/stages-bgr.png);
   font-weight: 500;
   font-size: 20px;
   line-height: 120%;
@@ -502,7 +502,7 @@ ul {
   min-width: 23.5vw;
   border-radius: 50%;
   background-color: #CBC0AF;
-  background-image: url(/img/participant.png);
+  background-image: url(/chess/img/participant.png);
   background-repeat: no-repeat;
   background-position: center bottom;
 }
@@ -711,7 +711,7 @@ ul {
       padding-right: 20px;
   }
   .hero {
-    background-image: url(/img/hero--mobile.png);
+    background-image: url(/chess/img/hero--mobile.png);
     background-position: top center;
     min-height: 773px;
     padding-top: 18px;
